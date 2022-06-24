@@ -1,2 +1,2 @@
 # sp-template
-template for sp
+template2 for sp
